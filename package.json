@@ -1,0 +1,25 @@
+{
+  "name": "h.w.j.devcamp-js-folder",
+  "version": "0.1.0",
+  "description": "generates dynamic footers with udated dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaydenJonesGit/h.w.j.devcamp-js-folder.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Hayden Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaydenJonesGit/h.w.j.devcamp-js-folder/issues"
+  },
+  "homepage": "https://github.com/HaydenJonesGit/h.w.j.devcamp-js-folder#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
